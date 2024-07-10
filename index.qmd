@@ -16,7 +16,7 @@ about:
       href: https://linkedin.com
     - icon: file-pdf
       text: Resume
-      file: ~qntkhvn/assets/resume.pdf
+      file: assets/resume.pdf
 ---
 
 Insert bio. Welcome to my website...
