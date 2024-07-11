@@ -7,7 +7,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: tindata@outlook.com
+      href: mailto:hello@abc.xyz
     - icon: github
       text: GitHub
       href: https://github.com

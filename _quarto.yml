@@ -10,13 +10,22 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - portfolio.qmd
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: file-pdf
+        href: assets/resume.pdf
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: 
+      - default
+      - custom.scss
+    # backgroundcolor: lightgray
     css: styles.css
     toc: true
 
