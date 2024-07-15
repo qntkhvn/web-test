@@ -1,6 +1,5 @@
 ---
 title: "Your Name"
-resources: assets
 about:
   template: jolla
   image: assets/profile-pic.png
