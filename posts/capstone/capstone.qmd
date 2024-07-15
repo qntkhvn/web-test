@@ -2,8 +2,6 @@
 title: "Capstone"
 description: "One sentence description"
 date: July 2024
-resources:
-  - "fonts.pdf"
 about:
   template: solana
   image: cover.png
@@ -19,7 +17,7 @@ about:
       href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
     - icon: pencil
       text: "Report"
-      href: ./posts/capstone/fonts.pdf
+      href: web-test/posts/capstone/fonts.pdf
 ---
 
 Description of capstone project
