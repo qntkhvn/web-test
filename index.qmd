@@ -1,7 +1,6 @@
 ---
 title: "Your Name"
 about:
-  id: hero-heading
   template: jolla
   image: assets/profile-pic.png
   links:
@@ -16,7 +15,7 @@ about:
       href: https://linkedin.com
     - icon: file-pdf
       text: Resume
-      file: assets/resume.pdf
+      file: ./assets/resume.pdf
 ---
 
 Insert bio. Welcome to my website...
