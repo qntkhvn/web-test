@@ -1,5 +1,6 @@
 ---
 title: "Your Name"
+resources: assets
 about:
   template: jolla
   image: assets/profile-pic.png
@@ -15,7 +16,7 @@ about:
       href: https://linkedin.com
     - icon: file-pdf
       text: Resume
-      file: ./assets/resume.pdf
+      file: web-test/assets/resume.pdf
 ---
 
 Insert bio. Welcome to my website...
