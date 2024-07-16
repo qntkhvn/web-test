@@ -2,6 +2,8 @@
 title: "Capstone"
 description: "One sentence description"
 date: July 2024
+resources:
+  - "fonts.pdf"
 about:
   template: solana
   image: cover.png
